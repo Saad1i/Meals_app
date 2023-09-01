@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+This is a new Flutter Android app which I made based on a different types recipes and cuisines, you can find the recipes of any cuisine and any other recipe. If you wish for you could also upload a new recipe of your own.
 
 ## Getting Started
 
